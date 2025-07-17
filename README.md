@@ -29,7 +29,7 @@
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**              | C++ · SQL · Python · Java · JavaScript ·  HTML                                                                                 |
 | **Frameworks & Libraries** | React ·  Node.js  · TensorFlow.js · Tailwind CSS    |
-| **Databases & APIs**       | MySQL (mysql2) ·  RESTful APIs · GraphQL                                                                                    |
+| **Databases & APIs**       | MySQL  ·  RESTful APIs · GraphQL                                                                                    |
 | **Dev Tools & Deployment** | Git · Expo                                                                                                                |
 | **Domains & Expertise**    | Competitive Programming · Web Development                |
 
