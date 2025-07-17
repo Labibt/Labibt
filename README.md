@@ -1,25 +1,23 @@
-<h1 align="center">Hi 👋, I'm Md. Sabbir Hasan Bhuiyan</h1>
+<h1 align="center">Hi 👋, I'm Labib Taher Chowdhury</h1>
 <h3 align="center">CSE Undergraduate | Competitive Programmer | Aspiring Software Engineer</h3>
 
 ---
 
 ## 🚀 Competitive Programming Journey
 
-- 🎯 Codeforces: [Expert (Max Rating 1733)](https://codeforces.com/profile/Sabbir.Hasan)
-- 🧠 Solved 2000+ problems across Codeforces, Codechef, Leetcode, LightOJ, Toph, etc.
-- 🕐 Participated in **300+ online contests**
-- 🎖️ 3× ICPC Dhaka Regionalist | 20+ National IUPCs
+- 🎯 Codeforces: [Specialist (Max Rating 1539)](https://codeforces.com/profile/Labibtc)
+- 🧠 Solved 1200+ problems across Codeforces, Leetcode, LightOJ, CSES, etc.
+- 🕐 Participated in **150+ online contests**
+- 🎖️ 2× ICPC Dhaka Regionalist | 9 National IUPCs
 
 ### 🏆 Notable Achievements
 
 | Contest/Event                             | Rank     |
 |-------------------------------------------|----------|
-| 🥇 15th IIUC Inter-University IUPC 2023   | Champion |
 | 🥈 ICPC Dhaka Regional 2024               | 30th     |
 | 🥉 KUET Inter-University IUPC 2025        | 32nd     |
-| 🌍 Meta Hacker Cup 2024 (Round 2)         | 911th    |
 | 🏅 CUSS IT Fiesta 2024                    | 4th      |
-| 🥇 Intra CU Engineering Day IUPC 2022     | Champion |
+| 🥇 Bangladesh Mathematical Olympiad, Chittagong Division     | Champion |
 
 📘 Full contest history: [IUPC Performance Tracker](https://github.com/SabbirHasanBhuiyan/IUPC_Performace)
 
@@ -29,11 +27,11 @@
 
 | **Category**               | **Technologies**                                                                                                                                      |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**              | C++ · SQL · Python · Java · JavaScript · TypeScript · HTML · CSS                                                                                 |
-| **Frameworks & Libraries** | React · React Native · Node.js · Express.js · TensorFlow.js · Tailwind CSS · Flowbite · Zod · Yup · Multer · JWT · Nodemailer · Kysely         |
-| **Databases & APIs**       | MySQL (mysql2) · ORM/Query Builder: Kysely · RESTful APIs · GraphQL                                                                                    |
-| **Dev Tools & Deployment** | Git · Expo · Postman                                                                                                                                    |
-| **Domains & Expertise**    | Competitive Programming · Web Development · Mobile App Development · Cryptography / Image Encryption                |
+| **Languages**              | C++ · SQL · Python · Java · JavaScript ·  HTML                                                                                 |
+| **Frameworks & Libraries** | React ·  Node.js  · TensorFlow.js · Tailwind CSS    |
+| **Databases & APIs**       | MySQL (mysql2) ·  RESTful APIs · GraphQL                                                                                    |
+| **Dev Tools & Deployment** | Git · Expo                                                                                                                |
+| **Domains & Expertise**    | Competitive Programming · Web Development                |
 
 ## 📦 Key Projects
 
