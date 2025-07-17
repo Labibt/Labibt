@@ -19,7 +19,7 @@
 | 🏅 CUSS IT Fiesta 2024                    | 4th      |
 | 🥇 Bangladesh Mathematical Olympiad, Chittagong Division     | Champion |
 
-📘 Full contest history: [IUPC Performance Tracker](https://github.com/SabbirHasanBhuiyan/IUPC_Performace)
+📘 Full contest history: [IUPC Performance Tracker](https://github.com/Labibt/Iupc-Performance)
 
 ---
 
