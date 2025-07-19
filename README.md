@@ -60,8 +60,6 @@
 ## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Labibt&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Labibt&theme=radical" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Labibt&layout=compact&theme=radical" />
