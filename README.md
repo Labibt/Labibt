@@ -69,10 +69,10 @@
 
 ## 🌐 Let's Connect
 
-- 📧 Email: [sabbirhasan675@gmail.com](mailto:sabbirhasan675@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/sabbirhasanbhuiyan](https://www.linkedin.com/in/sabbirhasanbhuiyan/)
-- 💻 GitHub: [SabbirHasanBhuiyan](https://github.com/SabbirHasanBhuiyan)
-- 🧮 Codeforces: [Sabbir.Hasan](https://codeforces.com/profile/Sabbir.Hasan)
+- 📧 Email: [sabbirhasan675@gmail.com](mailto:labibt42@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/labibtaher](https://www.linkedin.com/in/labibtaher/)
+- 💻 GitHub: [Labibt](https://github.com/Labibt/Labibt)
+- 🧮 Codeforces: [Labibtc](https://codeforces.com/profile/labibtc)
 
 ---
 
