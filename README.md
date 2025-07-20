@@ -69,7 +69,7 @@
 
 ## 🌐 Let's Connect
 
-- 📧 Email: [sabbirhasan675@gmail.com](mailto:labibt42@gmail.com)
+- 📧 Email: [labibt42@gmail.com](mailto:labibt42@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/labibtaher](https://www.linkedin.com/in/labibtaher/)
 - 💻 GitHub: [Labibt](https://github.com/Labibt/Labibt)
 - 🧮 Codeforces: [Labibtc](https://codeforces.com/profile/labibtc)
