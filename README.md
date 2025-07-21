@@ -33,29 +33,7 @@
 | **Dev Tools & Deployment** | Git · Expo                                                                                                                |
 | **Domains & Expertise**    | Competitive Programming · Web Development                |
 
-## 📦 Key Projects
 
-### 🏛️ Leave Management System – CU ERP
-**Stack:** Node.js · React.js · MySQL  
-- Modular leave workflow for real students, staff, admins  
-- Role-based access, approval chain, and email notifications  
-[🔗 View on GitHub](https://github.com/SabbirHasanBhuiyan/Leave-Management-System)
-
-### 📱 Currency Detection App
-**Stack:** React Native · TensorFlow.js · Expo  
-- Real-time BDT currency detection with mobile camera  
-- Includes micro-vlogging system with posts/comments/likes  
-[🔗 View on GitHub](https://github.com/SabbirHasanBhuiyan/CurrencyDetectionApp)
-
----
-
-## 📜 Academic Research
-
-**Thesis:** *Image Encryption Using DNA Encoding & Chaos Theory*  
-- Combined DNA-binary encoding with chaotic maps  
-- Targeted lightweight encryption for images in constrained systems
-
----
 
 ## 📊 GitHub Contributions
 
