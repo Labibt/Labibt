@@ -33,6 +33,36 @@
 | **Dev Tools & Deployment** | Git · Expo                                                                                                                |
 | **Domains & Expertise**    | Competitive Programming · Web Development                |
 
+📦 Key Projects
+🛒 CleverCart – AI-Powered E-Commerce System (Individual Project)
+Stack: React.js · Redux Toolkit · Firebase
+
+Automatically summarizes all user reviews for each product using the Gemini API
+
+Helps customers get quick, insightful feedback at a glance
+
+Used Redux Toolkit for efficient state management of products and cart, ensuring seamless UX
+🔗 View on GitHub (https://github.com/Labibt/CleverCart)
+
+🤖 SmartPick – Coding Interview Assistant (Individual Project)
+Stack: React.js · Firebase · GraphQL
+
+Recommends unsolved problems for a candidate based on their Codeforces and GitHub data
+
+Enables interviewers to visually compare two applicants' performance via rating graphs
+
+Sorts candidates by CP stats and GitHub activity for smarter screening
+🔗 View on GitHub (https://github.com/Labibt/SmartPick)
+
+📜 Academic Research
+Thesis: Depression Severity Classification with Lightweight Deep Transfer Learning Model
+
+Developed a multi-class depression detection system using transformer-based models
+
+Enhanced performance with sentiment fusion alongside CLS token embeddings
+
+Targeted tweet-based mental health analysis using optimized architectures
+🔗 View on GitHub
 
 
 ## 📊 GitHub Contributions
