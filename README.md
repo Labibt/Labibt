@@ -39,13 +39,13 @@
 **Stack:** React.js · Redux Toolkit · Firebase  
 - For each product, provides a summarized version of all user reviews using the Gemini API, offering customers quick and insightful feedback  
 - Utilized Redux Toolkit for efficient product and cart state management, ensuring smooth and responsive user interactions  
-[🔗 View on GitHub](https://github.com/YourUsername/CleverCart)
+[🔗 View on GitHub](https://github.com/Labibt/CleverCart)
 
 ### 💻 SmartPick – Coding Interview Assistant  
 **Stack:** React.js · Firebase · GraphQL  
 - Recommends unsolved problems for an applicant from various online judges based on solved tags and rating  
 - Includes rating curve comparison between two applicants and ranking based on CP and GitHub metrics  
-[🔗 View on GitHub](https://github.com/YourUsername/SmartPick)
+[🔗 View on GitHub](https://github.com/Labibt/SmartPick)
 
 ---
 
