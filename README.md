@@ -33,38 +33,31 @@
 | **Dev Tools & Deployment** | Git · Expo                                                                                                                |
 | **Domains & Expertise**    | Competitive Programming · Web Development                |
 
-📦 Key Projects
-🛒 CleverCart – AI-Powered E-Commerce System (Individual Project)
+🛒 CleverCart – AI-Powered E-Commerce System
 Stack: React.js · Redux Toolkit · Firebase
 
-Automatically summarizes all user reviews for each product using the Gemini API
+For each product, provides a summarized version of all user reviews using the Gemini API, offering customers quick and insightful feedback
 
-Helps customers get quick, insightful feedback at a glance
+Utilized Redux Toolkit for efficient product and cart state management, ensuring smooth and responsive user interactions
+🔗 View on GitHub <!-- Replace with your actual GitHub repo link -->
 
-Used Redux Toolkit for efficient state management of products and cart, ensuring seamless UX
-🔗 View on GitHub (https://github.com/Labibt/CleverCart)
-
-🤖 SmartPick – Coding Interview Assistant (Individual Project)
+🤖 SmartPick – Coding Interview Assistant
 Stack: React.js · Firebase · GraphQL
 
-Recommends unsolved problems for a candidate based on their Codeforces and GitHub data
+Helps interviewers discover unsolved problems for a specific applicant from various online judges, based on their rating and solved problem tags
 
-Enables interviewers to visually compare two applicants' performance via rating graphs
+Includes visual comparison of two applicants by plotting their rating curves on a single graph
 
-Sorts candidates by CP stats and GitHub activity for smarter screening
-🔗 View on GitHub (https://github.com/Labibt/SmartPick)
+Sorts applicants based on competitive programming and GitHub statistics
+🔗 View on GitHub <!-- Replace with your actual GitHub repo link -->
 
 📜 Academic Research
 Thesis: Depression Severity Classification with Lightweight Deep Transfer Learning Model
 
-Developed a multi-class depression detection system using transformer-based models
+Developed a tweet-based depression detection model using transformer architectures
 
-Enhanced performance with sentiment fusion alongside CLS token embeddings
-
-Targeted tweet-based mental health analysis using optimized architectures
+Applied sentiment fusion with CLS embeddings for improved severity classification
 🔗 View on GitHub
-
-
 ## 📊 GitHub Contributions
 
 <p align="center">
