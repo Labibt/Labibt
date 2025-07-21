@@ -33,31 +33,30 @@
 | **Dev Tools & Deployment** | Git · Expo                                                                                                                |
 | **Domains & Expertise**    | Competitive Programming · Web Development                |
 
-🛒 CleverCart – AI-Powered E-Commerce System
-Stack: React.js · Redux Toolkit · Firebase
+## 📦 Key Projects
 
-For each product, provides a summarized version of all user reviews using the Gemini API, offering customers quick and insightful feedback
+### 🛒 CleverCart – AI-Powered E-Commerce System  
+**Stack:** React.js · Redux Toolkit · Firebase  
+- For each product, provides a summarized version of all user reviews using the Gemini API, offering customers quick and insightful feedback  
+- Utilized Redux Toolkit for efficient product and cart state management, ensuring smooth and responsive user interactions  
+[🔗 View on GitHub](https://github.com/YourUsername/CleverCart)
 
-Utilized Redux Toolkit for efficient product and cart state management, ensuring smooth and responsive user interactions
-🔗 View on GitHub <!-- Replace with your actual GitHub repo link -->
+### 💻 SmartPick – Coding Interview Assistant  
+**Stack:** React.js · Firebase · GraphQL  
+- Recommends unsolved problems for an applicant from various online judges based on solved tags and rating  
+- Includes rating curve comparison between two applicants and ranking based on CP and GitHub metrics  
+[🔗 View on GitHub](https://github.com/YourUsername/SmartPick)
 
-🤖 SmartPick – Coding Interview Assistant
-Stack: React.js · Firebase · GraphQL
+---
 
-Helps interviewers discover unsolved problems for a specific applicant from various online judges, based on their rating and solved problem tags
+## 📜 Academic Research
 
-Includes visual comparison of two applicants by plotting their rating curves on a single graph
+**Thesis:** *Depression Severity Classification with Lightweight Deep Transfer Learning Model*  
+- Developed a depression detection model using transformer-based architectures  
+- Incorporated sentiment fusion with CLS embeddings for severity classification
 
-Sorts applicants based on competitive programming and GitHub statistics
-🔗 View on GitHub <!-- Replace with your actual GitHub repo link -->
+---
 
-📜 Academic Research
-Thesis: Depression Severity Classification with Lightweight Deep Transfer Learning Model
-
-Developed a tweet-based depression detection model using transformer architectures
-
-Applied sentiment fusion with CLS embeddings for improved severity classification
-🔗 View on GitHub
 ## 📊 GitHub Contributions
 
 <p align="center">
